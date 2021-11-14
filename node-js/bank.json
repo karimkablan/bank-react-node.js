@@ -1,1 +1,50 @@
-[{"name":"karim","email":"karim@gmail.com","credit":1000,"money":0,"accountNumber":"111111","id":"1e254d8nskvwpwscb"},{"name":"shadi","email":"shadi@gmail.com","credit":500,"money":51000,"accountNumber":"123456","id":"1e254dc6okvwpznoc"},{"name":"samer","email":"samer@gmail.com","credit":500,"money":50000,"accountNumber":"147258","id":"1e254dbf4kvwq0bbi"},{"name":"amer","email":"amer@gmail.com","credit":500,"money":40000,"accountNumber":"369852","id":"1e254d4x8kvwq0zc0"},{"name":"itay","email":"itay@gmail.com","credit":500,"money":40000,"accountNumber":"054054","id":"1e254dczskvwruxof"},{"name":"kareem","email":"kareem@gmail.com","credit":500,"money":20000,"accountNumber":"123123","id":"1e254d6g0kvwrwcjp"}]
+[
+    {
+        "name": "karim",
+        "email": "karim@gmail.com",
+        "credit": 1000,
+        "money": 0,
+        "accountNumber": "111111",
+        "id": "1e254d8nskvwpwscb"
+    },
+    {
+        "name": "shadi",
+        "email": "shadi@gmail.com",
+        "credit": 500,
+        "money": 51000,
+        "accountNumber": "123456",
+        "id": "1e254dc6okvwpznoc"
+    },
+    {
+        "name": "samer",
+        "email": "samer@gmail.com",
+        "credit": 500,
+        "money": 50000,
+        "accountNumber": "147258",
+        "id": "1e254dbf4kvwq0bbi"
+    },
+    {
+        "name": "amer",
+        "email": "amer@gmail.com",
+        "credit": 500,
+        "money": 40000,
+        "accountNumber": "369852",
+        "id": "1e254d4x8kvwq0zc0"
+    },
+    {
+        "name": "itay",
+        "email": "itay@gmail.com",
+        "credit": 500,
+        "money": 40000,
+        "accountNumber": "054054",
+        "id": "1e254dczskvwruxof"
+    },
+    {
+        "name": "kareem",
+        "email": "kareem@gmail.com",
+        "credit": 500,
+        "money": 20000,
+        "accountNumber": "123123",
+        "id": "1e254d6g0kvwrwcjp"
+    }
+]
